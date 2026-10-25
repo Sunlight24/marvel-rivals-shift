@@ -1,0 +1,7 @@
+target/
+*.o
+*.obj
+*.exe
+*.dll
+__pycache__/
+*.pyc
