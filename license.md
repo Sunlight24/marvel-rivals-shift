@@ -250,4 +250,4 @@ between them without re-tuning every value.
 
 ---
 
-*marvel-rivals-shift · Updated 2026-11-07 · Shared under the MIT License*
+*marvel-rivals-shift · Updated 2026-11-08 · Shared under the MIT License*
